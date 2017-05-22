@@ -87,7 +87,7 @@ import java.util.Scanner;
 	}
 	
 }
- public class BasicCalc
+ public class BasicCalc3
  {
 	 public static void main(String args[])
 	 {
